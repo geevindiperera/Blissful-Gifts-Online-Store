@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/geevindiperera/Blissful-Gifts-Online-Store.git]
+   git clone [https://github.com/geevindiperera/Blissful-Gifts-Online-Store-Back.git]
    ```
 2. Install dependencies:
    ```bash
